@@ -1,0 +1,1 @@
+var corpo = document.querySelector('#app')
